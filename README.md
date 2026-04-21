@@ -43,6 +43,8 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-DA1F26?style=flat)
+![UVM](https://img.shields.io/badge/UVM-1E90FF?style=flat)
 
 ```text
-Digital Design | FPGA Implementation | Cryptography | Embedded Systems
+Digital Design | FPGA Implementation | Verification | Networking | Cybersecurity
