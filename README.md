@@ -8,7 +8,7 @@
 
 🎓 Fresh Graduate from **Cairo University**  
 ⚡ Faculty of Engineering – Electronics & Communications Engineering  
-🔐 Passionate about Digital Design, Hardware Security, and Embedded Systems  
+🔐 Passionate about Digital Design, Hardware Security, and Networking & Cybersecurity
 
 ---
 
@@ -28,8 +28,8 @@
 
 - 💡 Interested in **Digital Design, FPGA, and Hardware Security**
 - 🔧 Strong foundation in **Digital IC Electronics**
-- 📡 Background in **Communications Engineering**
-- 🎯 Currently exploring opportunities in **Hardware / Embedded / VLSI / Security domains**
+- 📡 Background in **Electronics & Communication Engineering**
+- 🎯 Currently exploring opportunities in **Hardware / VLSI / Networking + Cybersecurity fundamentals**
 - 📚 Always learning and improving
 
 ---
